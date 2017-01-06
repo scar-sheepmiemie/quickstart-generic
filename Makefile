@@ -1,2 +1,2 @@
 greetings:
-	echo hail fellow well met
+	echo "hail fellow well met" && cd aaa
